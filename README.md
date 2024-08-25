@@ -17,10 +17,11 @@
 
 ### :man_technologist: About Me :
 
-- I work in App and Web Development.
-- I love programming and am a highly enthusiastic coder.
-- I enjoy bringing the best answers to challenging problems and finding innovative solutions.
-- I enjoy developing collaboratively and take pleasure in working with other programmers.
+- I'm a **Full-Stack Web Developer** with a passion for building dynamic and scalable applications.
+- I specialize in **Next.js, React**, and **Tailwind CSS**, and love creating elegant, user-friendly web experiences.
+- Beyond coding, I have a deep interest in **motion design** and work as a **motion graphics designer** on various marketplaces.
+- I'm always keen on collaborating with others to solve problems and create innovative solutions.
+- I believe in lifelong learning and continuously enhancing my skills, whether it's web development, **motion graphics**, or anything in between!
 
 ---
 
@@ -35,6 +36,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="After Effects" alt="After Effects" width="40" height="40"/>&nbsp;
 </div>
 
 ---
