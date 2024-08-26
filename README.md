@@ -108,6 +108,10 @@ I'm a **Freelance Motion Designer** and **Web Developer** with a passion for bot
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
   &nbsp;
+  <a href="https://www.aftereffects.com/en" target="_blank" rel="noreferrer">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="After Effects" alt="After Effects" width="40" height="40"/>
+  </a>
+  &nbsp;
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
