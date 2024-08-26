@@ -104,11 +104,11 @@ I'm a **Freelance Motion Designer** and **Web Developer** with a passion for bot
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   &nbsp;
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+  <a href="https://www.adobe.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
   &nbsp;
-  <a href="https://www.aftereffects.com/en" target="_blank" rel="noreferrer">
+  <a href="https://www.adobe.com/en" target="_blank" rel="noreferrer">
       <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="After Effects" alt="After Effects" width="40" height="40"/>
   </a>
   &nbsp;
