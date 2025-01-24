@@ -1,205 +1,149 @@
-<h1 align="center">
-  Hi, I'm Haseeb Khan! (CreatiPly)
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=creatiply&label=Profile%20views&color=0e75b6&style=flat" alt="creatiply" />
-</p>
-
-<div id="badges" align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/haseeb-khan-creatiply/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/haseeb-khan-creatiply/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
   </a>
-  &nbsp;
-  <a href="mailto: haseebkhan.creatiply@gmail.com">
-    <img src="https://img.shields.io/badge/email-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Email Badge"/>
+  <a href="haseebkhan.creatiply@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
   </a>
-  &nbsp;
-  <a href="https://dribbble.com/CreatiPly">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble Badge"/>
+  <a href="https://dribbble.com/CreatiPly" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="60" height="40" alt="dribbble logo"  />
   </a>
-  &nbsp;
-  <a href="https://www.instagram.com/CreatiPly">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <a href="https://www.behance.net/HaseebkhanCreatiPly" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="60" height="40" alt="behance logo"  />
+  </a>
+  <a href="https://linktr.ee/Creatiply" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="60" height="40" alt="linktree logo"  />
+  </a>
+  <a href="https://x.com/HKCreatiply" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="40" alt="twitter logo"  />
   </a>
 </div>
 
----
+###
 
-### :man_technologist: About Me :
+<h3 align="center">Hi 👋! My name is Haseeb Khan, and I'm a Front-End Developer and Motion Graphics Designer from Pakistan. And this is where you can reach me☝️</h3>
 
-I'm a **Freelance Motion Designer** and **Web Developer** with a passion for both the technical and creative aspects of building engaging digital experiences. Here's more about me:
-- **Freelancer** in **Motion Graphics** on platforms like Shutterstock, Adobe Stock, and more.
-- I work in **App and Web Development** using **Next.js**, **React.js**, **JavaScript**, **TailwindCSS**, and more.
-- I'm a **highly enthusiastic coder** who loves solving challenging problems and coming up with innovative solutions.
-- I thrive in **collaborative development environments** and enjoy working with fellow programmers to bring ideas to life.
+###
 
----
+<h5 align="left">🛠️ My ToolBox</h5>
 
-### :hammer_and_wrench: Languages and Tools :
+###
 
 <div align="center">
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.adobe.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.adobe.com/en" target="_blank" rel="noreferrer">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="After Effects" alt="After Effects" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=codepen" height="50" alt="codepen logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="50" alt="materialui logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="50" alt="netlify logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=redux" height="50" alt="redux logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=regex" height="50" alt="regex logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="50" alt="supabase logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="50" alt="wordpress logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=ae" height="50" alt="adobeaftereffects logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=ai" height="50" alt="adobeillustrator logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=ps" height="50" alt="adobephotoshop logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=pr" height="50" alt="adobepremierepro logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=xd" height="50" alt="xd logo"  />
 </div>
 
----
+###
 
-### :fire: My Stats :
+<h5 align="left">🔥 My Stats</h5>
+
+###
 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CreatiPly&theme=dark&background=000000" alt="creatiply" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CreatiPly&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=CreatiPly&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CreatiPly&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=CreatiPly&theme=nord&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CreatiPly&theme=tokyo-night&area=true&hide_border=false&hide_title=false" height="150" alt="activity-graph graph"  />
 </div>
 
-<br/>
+###
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CreatiPly&show_icons=true&theme=vision-friendly-dark" alt="creatiply" />
-</div>
+<h5 align="left">👨‍💻 About Me</h5>
 
-<br/>
+###
 
-<div align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=creatiply&theme=darkhub" alt="creatiply" />
-</div>
+<p align="left">I'm a Freelance Motion Designer and Web Developer with a passion for both the technical and creative aspects of building engaging digital experiences. Here's more about me:  <br>- Freelancer in Motion Graphics on platforms like Shutterstock, Adobe Stock, and more.  <br>- I work in App and Web Development using Next.js, React.js, JavaScript, TailwindCSS, and more.  <br>- I'm a highly enthusiastic coder who loves solving challenging problems and coming up with innovative solutions.  <br>- I thrive in collaborative development environments and enjoy working with fellow programmers to bring ideas to life.</p>
 
----
+###
 
-### :trophy: Certifications :
+<h5 align="left">🎨 My Design and Stock Portfolios</h5>
 
-- **Responsive Web Design** - FreeCodeCamp
-- **JavaScript Algorithms and Data Structures** - FreeCodeCamp
-- **Coursera Specializations** - [Check them here](https://www.coursera.org/learner/haseeb-khan-creatiply)
-
----
-
-### :art: My Design and Stock Portfolios :
+###
 
 - [Shutterstock Portfolio](https://www.shutterstock.com/g/CreatiPly) - High-quality motion design assets available for licensing.
 - [Adobe Stock Portfolio](https://stock.adobe.com/contributor/211898958/CreatiPly) - Explore my diverse range of creative works.
 - [Dribbble Portfolio](https://dribbble.com/CreatiPly) - Showcasing some of my creative designs and works.
 
----
+###
 
-### :computer: Coding Profiles :
+<h5 align="left">📨 How to reach me</h5>
 
-- [LeetCode Profile](https://leetcode.com/u/Haseeb_Khan_CreatiPly/) - Check out my problem-solving skills on LeetCode.
-- [Codewars Profile](https://www.codewars.com/users/CreatiPly) - Sharpening my skills with daily coding challenges.
+###
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/haseeb-khan-creatiply/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="haseebkhan.creatiply@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://dribbble.com/CreatiPly" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="60" height="40" alt="dribbble logo"  />
+  </a>
+  <a href="https://www.behance.net/HaseebkhanCreatiPly" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="60" height="40" alt="behance logo"  />
+  </a>
+  <a href="https://linktr.ee/Creatiply" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="60" height="40" alt="linktree logo"  />
+  </a>
+  <a href="https://x.com/HKCreatiply" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="40" alt="twitter logo"  />
+  </a>
+</div>
 
-### :incoming_envelope: How to reach me :
-
-You may reach me via email at:  
-<a href="mailto:haseebkhan.creatiply@gmail.com">
-  <img src="https://img.shields.io/badge/-Haseeb%20Khan-red?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
-</a>
-    
- <br/>
-    
-or connect with me on LinkedIn:  
-<a target="_blank" href="https://www.linkedin.com/in/haseeb-khan-creatiply/">
-  <img src="https://img.shields.io/badge/-Haseeb%20Khan-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
+###
